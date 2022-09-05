@@ -2,7 +2,7 @@
 <h1 align="center">Hi! I'm Vinamrata</h1>
 
 <p align="center">
-  [![Linkedin Badge](https://img.shields.io/badge/-Vinamrata-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)]            (https://www.linkedin.com/in/vinamrata-yadav-2398a5138/)
+  ![Linkedin Badge](https://img.shields.io/badge/-Vinamrata-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)           (https://www.linkedin.com/in/vinamrata-yadav-2398a5138/)
   
 </p>
 
