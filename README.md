@@ -16,11 +16,11 @@
 
 <h2 align="center">About me</h2>
 <p align="center">
-Timezone: Europe/France (CEST)
+Timezone: Europe/France
 </p>
 <p align="center"> Currently I'm working as a Data scientist </p>
-<p
-I hold a master's degree in data science (Polytech Nantes) and bachelor's degree in computer science. And I have done a data analytics bootcamp (Ironhack France) to strenghten my skill in data analytics.p>
+
+I hold a master's degree in data science (Polytech Nantes) and bachelor's degree in computer science. And I have done a data analytics bootcamp (Ironhack France) to strenghten my skill in data analytics.
 <p>: I'm currently learning french</p>
 <p>:I'm learning everything I need to make myself stronger and better as data scientist. </p>
 
