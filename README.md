@@ -5,7 +5,6 @@
 <p align="center">
   [![Linkedin Badge](https://img.shields.io/badge/-Vinamrata-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinamrata-yadav-2398a5138/)
   [![Mail Badge](https://img.shields.io/badge/-Vinamratayadav-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:viniyadav1097@gmail.com)
- <a href="https://dev.to/yuridevat"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white alt="Dev.to" /></a>&nbsp;
 </p>
 <br />
 
