@@ -31,7 +31,7 @@ I hold a master's degree in data science (Polytech Nantes) and bachelor's degree
 </p>
 
 <p align="center">
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="Python" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="Python" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/git/" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="Git" width="40" height="40"/> </a>
   
   
