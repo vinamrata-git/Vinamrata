@@ -9,9 +9,29 @@
 <br />
 
 <p align="center">Passionate and enthusiastic data scientist who enjoys working on target-based research and result-oriented problem solving. </p>
+
+
+
+
+
+<h2 align="center">About me</h2>
 <p align="center">
-  
+Timezone: Europe/France (CEST)
+</p>
+<br />
+
+<p align="center"> Currently I'm working as a Data scientist </p>
+<p align="center">
 I hold a master's degree in data science (Polytech Nantes) and bachelor's degree in computer science. And I have done a data analytics bootcamp (Ironhack France) to strenghten my skill in data analytics.</p>
+<p>: I'm currently learning french</p>
+<p>:I'm learning everything I need to make myself stronger and better as data scientist. </p>
+
+<br />
+<br />
+<p>
+<h3 align="center"> Languages and Tools</h3>
+</p>
+
 
 # Area of Interest:
 I am interseted in Machine Learning, NLP and Data analysis.
