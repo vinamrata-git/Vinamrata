@@ -2,7 +2,7 @@
 <h1 align="center">Hi! I'm Vinamrata</h1>
 
 
-![alt text] (https.//img.shields.io/badge/LinkedIn-0A66C2style=for-the-badgeslogo=LinkedIn)
+[![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinamrata-yadav-2398a5138/)
 
 
 I hold a master's degree in data science (Polytech Nantes) and bachelor's degree in computer science. recently I have finished a data analytics bootcamp (Ironhack Paris) to strenghten my skill in data analysis.
