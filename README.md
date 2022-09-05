@@ -34,8 +34,7 @@ I hold a master's degree in data science (Polytech Nantes) and bachelor's degree
 <a href="https://www.w3schools.com/python/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyhton3-original-wordmark.svg" alt="Python" width="40" height="40"/> </a>
   
   
-  
-  
+ 
 # Area of Interest:
 I am interseted in Machine Learning, NLP and Data analysis.
 
