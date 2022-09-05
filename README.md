@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi! I'm Vinamrata</h1>
-#customised badge
+
+
 ![alt text] (https.//img.shields.io/badge/LinkedIn-0A66C2style=for-the-badgeslogo=LinkedIn)
 
 
