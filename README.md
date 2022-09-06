@@ -44,9 +44,9 @@ I hold a master's degree in data science (Polytech Nantes) and bachelor's degree
 I am interseted in Machine Learning, NLP and Data analysis.
   
 <br />
+
 ---
 
-<br />
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=vinamrata-git&theme=radical&show_icons=true" width="410"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinamrata-git&layout=compact&theme=radical" width="400" />
