@@ -42,9 +42,11 @@ I am interseted in Machine Learning, NLP and Data analysis.
   
 <br />
 <br />
+
+</p>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinamrata-git&theme=tokyonight)
-
-  <br />
+</p>
+<br />
 
 
