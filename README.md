@@ -39,10 +39,11 @@ I hold a master's degree in data science (Polytech Nantes) and bachelor's degree
  
 # Area of Interest:
 I am interseted in Machine Learning, NLP and Data analysis.
+  
 <br />
 <br />
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinamrata-git&hide=javascript,css,scss,html&theme=tokyonight)
-
+<br />
 
 
