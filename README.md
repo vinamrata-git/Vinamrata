@@ -49,13 +49,14 @@ I am interseted in Machine Learning, NLP and Data analysis.
 <a href="https://www.w3schools.com/git/" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="Git" width="40" height="40"/> </a>
  <a href="https://www.w3schools.com/git/" target="_blank"> <img src="https://camo.githubusercontent.com/36d04618ffb8d988ca8022146751656a01e12cc6b91525a02353ee72636c3a9f/68747470733a2f2f646f63732e676f6f676c652e636f6d2f75633f6578706f72743d646f776e6c6f61642669643d31666b62366836364764796464694f6c4447585a65636e6751516f467339795630" alt="Git" width="40" height="40"/> </a>
 
+---
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=vinamrata-git&theme=radical&show_icons=true" width="410"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinamrata-git&layout=compact&theme=radical" width="400" />
 </p>
 
----
+
 
 
 
