@@ -24,14 +24,12 @@ I hold a master's degree in data science (Polytech Nantes) and bachelor's degree
 <p>:muscle: I'm currently learning french</p>
 <p>:eyes: I'm learning everything that need to make myself stronger and better data scientist. </p>
 
----
-  
+
 # Area of Interest:
 I am interseted in Machine Learning, NLP and Data analysis.
   
 <br />
-  
----
+ 
 
 <br />
 <br />
