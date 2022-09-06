@@ -32,10 +32,11 @@ I hold a master's degree in data science (Polytech Nantes) and bachelor's degree
 
 <p align="center">
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="Python" width="40" height="40"/> </a>
+  <a href="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="Git" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/VSCode/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/git/" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="Git" width="40" height="40"/> </a>
  <a href="https://www.w3schools.com/git/" target="_blank"> <img src="https://camo.githubusercontent.com/36d04618ffb8d988ca8022146751656a01e12cc6b91525a02353ee72636c3a9f/68747470733a2f2f646f63732e676f6f676c652e636f6d2f75633f6578706f72743d646f776e6c6f61642669643d31666b62366836364764796464694f6c4447585a65636e6751516f467339795630" alt="Git" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/git/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="Git" width="40" height="40"/> </a>
+
   
  
 # Area of Interest:
