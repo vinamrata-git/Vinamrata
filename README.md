@@ -29,10 +29,7 @@ I hold a master's degree in data science (Polytech Nantes) and bachelor's degree
 I am interseted in Machine Learning, NLP and Data analysis.
   
 <br />
- 
 
-<br />
-<br />
 
 ---
 
