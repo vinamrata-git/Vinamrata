@@ -56,7 +56,7 @@ I am interseted in Machine Learning, NLP and Data analysis.
 </p>
 
 
-<a href="http://www.github.com/vinamrata-git"><img src="https://activity-graph.herokuapp.com/graph?username=vinamrata-git&bg_color=EFB2D5&color=CC0074&line=958BA2&point=231338&area_color=CC0074&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/vinamrata-git"><img src="https://activity-graph.herokuapp.com/graph?username=vinamrata-git&bg_color=F9E5F1&color=CC0074&line=958BA2&point=231338&area_color=CC0074&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
 
