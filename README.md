@@ -8,6 +8,8 @@
 </p>
 <br />
 
+
+<p align="center">Open for hire </p>
 <p align="center">Passionate and enthusiastic data scientist who enjoys working on target-based research and result-oriented problem solving. </p>
 
 
