@@ -7,8 +7,6 @@
 <a href="mailto:viniyadav1097@gmail.com"><img src="https://img.shields.io/badge/-Vinamratayadav-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" /></a>&nbsp;
 </p>
 <br />
-
-  <br>
   <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vinamrata-git&style=for-the-badge&logo=github">
   </p>
