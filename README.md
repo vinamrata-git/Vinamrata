@@ -8,6 +8,12 @@
 </p>
 <br />
 
+  <br>
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vinamrata-git&style=for-the-badge&logo=github">
+  </p>
+  <br>
+
 
 <p align="center">Open for hiring </p>
 <p align="center">Passionate and enthusiastic data scientist who enjoys working on target-based research and result-oriented problem solving. </p>
@@ -20,11 +26,6 @@
 <p align="center">
 Timezone: Europe/France
 </p>
-  <br>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=vinamrata-git&style=for-the-badge&logo=github">
-  <br>
-  <br>
 <p align="center"> Currently I'm working as a Data scientist </p>
 
 I hold a master's degree in data science (Polytech Nantes) and bachelor's degree in computer science. And I have done a data analytics bootcamp (Ironhack France) to strenghten my skill in data analytics.
