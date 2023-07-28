@@ -28,7 +28,7 @@ Timezone: Europe/France
 
 I hold a master's degree in data science (Polytech Nantes) and bachelor's degree in computer science. And I have done a data analytics bootcamp (Ironhack France) to strenghten my skill in data analytics.
 
-<p>:eyes: I'm learning everything that need to make myself stronger and better data scientist. </p>
+<p> </p>
 
 
 # Area of Interest:
