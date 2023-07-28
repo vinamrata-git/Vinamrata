@@ -24,7 +24,7 @@
 <p align="center">
 Timezone: Europe/France
 </p>
-<p align="center"> Currently I'm working as a Data scientist </p>
+<p align="center"> I have 2 years of working experience as a data scientist </p>
 
 I hold a master's degree in data science (Polytech Nantes) and bachelor's degree in computer science. And I have done a data analytics bootcamp (Ironhack France) to strenghten my skill in data analytics.
 
@@ -32,7 +32,9 @@ I hold a master's degree in data science (Polytech Nantes) and bachelor's degree
 
 
 # Area of Interest:
-I am interseted in Machine Learning, NLP and Data analysis.
+* Data analytics
+* NLP
+* Machine learning
   
 <br />
 
